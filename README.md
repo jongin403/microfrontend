@@ -1,17 +1,17 @@
 # microfrontend
 
-- **Microfrontend** 강의 실습을 위한 레포지토리
-- ㄴ 독립적으로 동작할 수 있는 웹 어플리케이션을 조합해 **통합된 웹 애플리케이션**을 만드는 아키텍쳐 스타일
+### Microfrontend 강의 실습을 위한 레포지토리
+- **Microfrontend** : 독립적으로 동작할 수 있는 웹 어플리케이션을 조합해 **통합된 웹 애플리케이션**을 만드는 아키텍쳐 스타일
 <br/>
 
 ## 강의
-Microfrontends with React: A Complete Developer's Guide
+<img width="500px" src="https://user-images.githubusercontent.com/23301416/212778674-1f0dd089-d55f-424d-a86a-1827c336b94f.png" />
 
-![lecture_thumbnail](https://user-images.githubusercontent.com/23301416/212546126-2c49621d-a978-43f7-973f-ba23ab007143.jpg)
+### Microfrontends with React: A Complete Developer's Guide
 - https://www.udemy.com/course/microfrontend-course/
 
-
 <br/>
+
 
 ## 관련 기술 스택
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> JavaScript
