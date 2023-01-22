@@ -14,9 +14,11 @@
 
 
 ## 관련 기술 스택
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> JavaScript
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213901201-701163da-e906-4a4c-b088-3a2654f57793.svg"/> JavaScript
 
-<img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" /> Webpack ( Module Federation )
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213901203-6f68b905-eda7-4f83-ad36-692bdd0f5715.svg"/> Webpack
+
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213901163-2e78d007-9a31-4ddf-8425-2f366d739ac4.svg"/> Amazon S3
 
 <br/>
 
