@@ -18,7 +18,19 @@
 
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213901203-6f68b905-eda7-4f83-ad36-692bdd0f5715.svg"/> Webpack
 
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213901163-2e78d007-9a31-4ddf-8425-2f366d739ac4.svg"/> Amazon S3
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213922528-58a55688-3708-42ba-8110-eb5ee803befa.svg"/> GitHub Actions
+
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213901163-2e78d007-9a31-4ddf-8425-2f366d739ac4.svg"/> AWS S3
+
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213921742-ab0f34de-3ea8-4d82-8581-69a7a02168b9.svg"/> AWS CloudFront
+
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/23301416/213921740-99d13654-ae0b-4ac6-b668-22d5e8b68683.svg"/> AWS IAM
+
+<br/>
+
+## 데모
+
+- https://d2xey0n55k1bo.cloudfront.net/container/latest/index.html
 
 <br/>
 
@@ -26,21 +38,14 @@
 
 Container
 
-- `cd ecomm/container`
+- `cd packages/container`
 - `npm install`
 - `npm run start`
 - http://localhost:8080/
 
-Products
+Marketing
 
-- `cd ecomm/products`
+- `cd packages/marketing`
 - `npm install`
 - `npm run start`
 - http://localhost:8081/
-
-Cart
-
-- `cd ecomm/cart`
-- `npm install`
-- `npm run start`
-- http://localhost:8082/
